@@ -15,8 +15,8 @@
 {
 "title": "Che Title",
 "url": "https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4",
-"referrer": null,
-"user_agent": null
+"referrer": "",
+"user_agent": ""
 }
 ]
 }
