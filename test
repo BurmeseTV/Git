@@ -14,8 +14,8 @@
             {
                 "title": "China SD",
                 "url": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lsd.m3u8?user_session_id=c968e94fd2b68f215196595e6c17d6a6&edge_slice=true&auth_key=1705149428-0-0-d14cc985a45650531d3808279f698551&sub_m3u8=true",
-                "referrer": null,
-                "user_agent": null
+                "referrer": "",
+                "user_agent": ""
             },
             {
                 "title": "China HD",
