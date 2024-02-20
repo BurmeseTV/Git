@@ -1,371 +1,211 @@
-[
-    {
-        "id": 37,
+[{
+        "id": 25,
         "league": "Premier League",
-        "home_team": "Chelsea",
-        "home_image": "https://images.fotmob.com/image_resources/logo/teamlogo/8455.png",
-        "away_team": "Fulham",
-        "away_image": "https://images.fotmob.com/image_resources/logo/teamlogo/9879.png",
+        "home_team": "Man City",
+        "home_image": "https://images.fotmob.com/image_resources/logo/teamlogo/8456.png",
+        "away_team": "Brentford",
+        "away_image": "https://images.fotmob.com/image_resources/logo/teamlogo/9937.png",
         "is_live": true,
         "score": "",
-        "date": "13/01",
-        "time": "12:16 PM",
+        "date": "2:00 AM",
+        "time": "2:00 AM",
         "links": [
             {
-                "title": "China SD",
-                "url": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lsd.m3u8?user_session_id=c968e94fd2b68f215196595e6c17d6a6&edge_slice=true&auth_key=1705149428-0-0-d14cc985a45650531d3808279f698551&sub_m3u8=true",
+                "title": "English HD",
+                "url": "https://s3.alnorum.xyz/hls/abr-player-1/index.m3u8",
+                "referrer": "https://www.sportshub.to/",
+                "user_agent": ""
+            },
+            {
+                "title": "Vebo HD",
+                "url": "https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@oldSD/chunklist.m3u8",
+                "referrer": "https://watch.ezyproxy.com/",
+                "user_agent": ""
+            },
+{
+                "title": "English FHD",
+                "url": "https://hls.streambtw.com/live/stream_3.m3u8",
                 "referrer": "",
                 "user_agent": ""
             },
-            {
-                "title": "China HD",
-                "url": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?user_session_id=c968e94fd2b68f215196595e6c17d6a6&edge_slice=true&auth_key=1705149428-0-0-d14cc985a45650531d3808279f698551&sub_m3u8=true",
+{
+                "title": "English HD",
+                "url": "	https://ynzbpull2.nbxhth.cn/live/84394805558112414443.m3u8",
                 "referrer": "",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco 1 HD",
-                "url": "https://pull.niues.live/live/stream-9912078_lhd.m3u8?auth_key=1705154092-0-0-c4302be6c9e8342728890a33450e9c60",
-                "referrer": "",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco 2 HD",
-                "url": "https://pull.niues.live/live/stream-9912050_lhd.m3u8?auth_key=1705154212-0-0-af1920a89e9bd02a3fc05b8a9109b7de",
-                "referrer": "",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco 3 HD",
-                "url": "https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1705154212-0-0-d840b8aae0f0d39e5d3c06cb7d7c2df4",
-                "referrer": "",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco 4 HD",
-                "url": "https://pull01.rrwes.live/live/stream-9912047_lhd.m3u8?txSecret=5f27fb634bfdcac71e1414b8ce0548c3&txTime=65a2dda8",
-                "referrer": "",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco 5 HD",
-                "url": "https://pull01.rrwes.live/live/stream-9912085_lhd.m3u8?txSecret=cd7db3a016526efe29fcb7755ce2786e&txTime=65a2dde4",
-                "referrer": "",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco 6 HD",
-                "url": "https://pull01.rrwes.live/live/stream-201313_lhd.m3u8?txSecret=1aca926679deda1b5bda3888877b0386&txTime=65a2dde4",
-                "referrer": "",
-                "user_agent": ""
-            },
-            {
-                "title": "Usa Sports FHD",
-                "url": "https://roroorororoororor.fordems.live/live/zone-1/chunks.m3u8",
-                "referrer": "https://flexsportx.com/",
-                "user_agent": ""
-            },
-            {
-                "title": "Sky Sports FHD",
-                "url": "https://wenkisterin.latsyoving.xyz/live/n-1/chunks.m3u8",
-                "referrer": "",
-                "user_agent": ""
-            },
-            {
-                "title": "English 360 SD",
-                "url": "https://live.keenii.xyz/hls/pr_320p/index.m3u8",
-                "referrer": "https://soccerinhd.com/",
-                "user_agent": ""
-            },
-            {
-                "title": "English SD",
-                "url": "https://live.keenii.xyz/hls/pr_480p/index.m3u8",
-                "referrer": "https://soccerinhd.com/",
                 "user_agent": ""
             },
             {
                 "title": "English HD",
-                "url": "https://live.keenii.xyz/hls/pr_720p/index.m3u8",
+                "url": "https://live.damstounas.xyz/hls/pr_480p/index.m3u8",
                 "referrer": "https://soccerinhd.com/",
                 "user_agent": ""
             },
-            {
-                "title": "English FHD",
-                "url": "https://hls.streambtw.com/live/stream_1.m3u8",
-                "referrer": "",
+{
+                "title": "English SD",
+                "url": "https://live.damstounas.xyz/hls/pr_320p/index.m3u8",
+                "referrer": "https://soccerinhd.com/",
                 "user_agent": ""
             },
-            {
-                "title": "Soco 2 SD",
-                "url": "https://pull.niues.live/live/stream-9912078_lsd.m3u8?auth_key=1705152172-0-0-0dedcb31ebd4ced6f4e9740ebf3dee68",
-                "referrer": "",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco 2 HD",
-                "url": "https://pull.niues.live/live/stream-9912078_lhd.m3u8?auth_key=1705152172-0-0-0dedcb31ebd4ced6f4e9740ebf3dee68",
-                "referrer": "",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco 1 SD",
-                "url": "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1705152352-0-0-023ff5c3662076af1e0cf0491bd56980",
-                "referrer": "",
-                "user_agent": ""
-            },
-            {
-                "title": "Soco 1 HD",
-                "url": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1705152352-0-0-023ff5c3662076af1e0cf0491bd56980",
-                "referrer": "",
-                "user_agent": ""
-            }
-        ]
-    },
-    {
-        "id": 36,
-        "league": "LaLiga",
-        "home_team": "Las Palmas",
-        "home_image": "https://images.fotmob.com/image_resources/logo/teamlogo/8306.png",
-        "away_team": "Villarreal",
-        "away_image": "https://images.fotmob.com/image_resources/logo/teamlogo/10205.png",
-        "is_live": true,
-        "score": "",
-        "date": "13/01",
-        "time": "12:44 PM",
-        "links": [
-            {
+{
                 "title": "China HD",
-                "url": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-3378908_lhd.m3u8?auth_key=1705149968-0-0-d7aeb3610af9580bce84766de1be16f3&user_session_id=396c5aa9884adf67694103d5b17be6e4&edge_slice=true&sub_m3u8=true",
-                "referrer": null,
+                "url": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-459976_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=a49e50e580a22145bda132fb590884cc&auth_key=1708459031-0-0-e31a3c715dad1bcbd9eed9b74f305f20",
+                "referrer": "",
                 "user_agent": ""
             },
             {
                 "title": "China SD",
-                "url": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-3378908_lsd.m3u8?auth_key=1705149968-0-0-d7aeb3610af9580bce84766de1be16f3&user_session_id=396c5aa9884adf67694103d5b17be6e4&edge_slice=true&sub_m3u8=true",
+                "url": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-459976_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=a49e50e580a22145bda132fb590884cc&auth_key=1708459031-0-0-e31a3c715dad1bcbd9eed9b74f305f20",
                 "referrer": "",
                 "user_agent": ""
-            }
-        ]
-    },
-    {
-        "id": 35,
-        "league": "Serie A",
-        "home_team": "Genoa",
-        "home_image": "https://images.fotmob.com/image_resources/logo/teamlogo/10233.png",
-        "away_team": "Torino",
-        "away_image": "https://images.fotmob.com/image_resources/logo/teamlogo/9804.png",
-        "is_live": false,
-        "score": "",
-        "date": "13/01",
-        "time": "08:30 PM",
-        "links": []
-    },
-    {
-        "id": 34,
-        "league": "Serie A",
-        "home_team": "SSC Napoli",
-        "home_image": "https://images.fotmob.com/image_resources/logo/teamlogo/9875.png",
-        "away_team": "Salernitana",
-        "away_image": "https://images.fotmob.com/image_resources/logo/teamlogo/6480.png",
-        "is_live": false,
-        "score": "",
-        "date": "13/01",
-        "time": "08:30 PM",
-        "links": []
-    },
-    {
-        "id": 33,
-        "league": "Bundesliga",
-        "home_team": "FC Augsburg",
-        "home_image": "https://images.fotmob.com/image_resources/logo/teamlogo/8406_small.png",
-        "away_team": "Bayer Leverkusen",
-        "away_image": "https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",
-        "is_live": false,
-        "score": "",
-        "date": "13/01",
-        "time": "09:00 PM",
-        "links": []
-    },
-    {
-        "id": 32,
-        "league": "Bundesliga",
-        "home_team": "FC Köln",
-        "home_image": "https://images.fotmob.com/image_resources/logo/teamlogo/8722_small.png",
-        "away_team": "FC Heidenheim",
-        "away_image": "https://images.fotmob.com/image_resources/logo/teamlogo/94937_small.png",
-        "is_live": false,
-        "score": "",
-        "date": "13/01",
-        "time": "09:00 PM",
-        "links": []
-    },
-    {
-        "id": 31,
-        "league": "Bundesliga",
-        "home_team": "SC Freiburg",
-        "home_image": "https://images.fotmob.com/image_resources/logo/teamlogo/8358_small.png",
-        "away_team": "Union Berlin",
-        "away_image": "https://images.fotmob.com/image_resources/logo/teamlogo/8149_small.png",
-        "is_live": false,
-        "score": "",
-        "date": "13/01",
-        "time": "09:00 PM",
-        "links": []
-    },
-    {
-        "id": 30,
-        "league": "Bundesliga",
-        "home_team": "Mainz 05",
-        "home_image": "https://images.fotmob.com/image_resources/logo/teamlogo/9905_small.png",
-        "away_team": "Wolfsburg",
-        "away_image": "https://images.fotmob.com/image_resources/logo/teamlogo/8721_small.png",
-        "is_live": false,
-        "score": "",
-        "date": "13/01",
-        "time": "09:00 PM",
-        "links": []
-    },
-    {
-        "id": 29,
-        "league": "Bundesliga",
-        "home_team": "RB Leipzig",
-        "home_image": "https://images.fotmob.com/image_resources/logo/teamlogo/178475_small.png",
-        "away_team": "Eintracht Frankfurt",
-        "away_image": "https://images.fotmob.com/image_resources/logo/teamlogo/9810_small.png",
-        "is_live": false,
-        "score": "",
-        "date": "13/01",
-        "time": "09:00 PM",
-        "links": []
-    },
-    {
-        "id": 28,
-        "league": "LaLiga",
-        "home_team": "Mallorca",
-        "home_image": "https://images.fotmob.com/image_resources/logo/teamlogo/8661.png",
-        "away_team": "Celta Vigo",
-        "away_image": "https://images.fotmob.com/image_resources/logo/teamlogo/9910.png",
-        "is_live": false,
-        "score": "",
-        "date": "13/01",
-        "time": "08:39 AM",
-        "links": [
-            {
+            },
+{
                 "title": "Soco HD",
-                "url": "https://pull.niues.live/live/stream-486629_lhd.m3u8?auth_key=1705138912-0-0-f55f6205ec30120f86fe14db69462a20",
-                "referrer": null,
-                "user_agent": null
+                "url": "https://pull01.rrwes.live/live/stream-9912060_lhd.m3u8?txSecret=26947cb3b392e40b1465d6f48323dab7&txTime=65d55006",
+                "referrer": "",
+                "user_agent": ""
             },
             {
                 "title": "Soco SD",
-                "url": "https://pull.niues.live/live/stream-486629_lhd.m3u8?auth_key=1705138912-0-0-f55f6205ec30120f86fe14db69462a20",
-                "referrer": null,
-                "user_agent": null
+                "url": "https://pull01.rrwes.live/live/stream-9912060_lsd.m3u8?txSecret=26947cb3b392e40b1465d6f48323dab7&txTime=65d55006",
+                "referrer": "",
+                "user_agent": ""
             }
-        ]
-    },
-    {
-        "id": 27,
-        "league": "Ligue 1",
-        "home_team": "Monaco",
-        "home_image": "https://images.fotmob.com/image_resources/logo/teamlogo/9829_small.png",
-        "away_team": "Reims",
-        "away_image": "https://images.fotmob.com/image_resources/logo/teamlogo/9837_small.png",
-        "is_live": false,
-        "score": "",
-        "date": "13/01",
-        "time": "10:30 PM",
-        "links": []
-    },
-    {
-        "id": 26,
-        "league": "Serie A",
-        "home_team": "Hellas Verona",
-        "home_image": "https://images.fotmob.com/image_resources/logo/teamlogo/9876.png",
-        "away_team": "Empoli",
-        "away_image": "https://images.fotmob.com/image_resources/logo/teamlogo/8534.png",
-        "is_live": false,
-        "score": "",
-        "date": "13/01",
-        "time": "11:30 PM",
-        "links": []
-    },
+]
+},
     {
         "id": 25,
-        "league": "premier League",
-        "home_team": "Newcastle",
-        "home_image": "https://images.fotmob.com/image_resources/logo/teamlogo/10261.png",
-        "away_team": "Man City",
-        "away_image": "https://images.fotmob.com/image_resources/logo/teamlogo/8456.png",
-        "is_live": false,
+        "league": "Champions League",
+        "home_team": "Inter",
+        "home_image": "https://images.fotmob.com/image_resources/logo/teamlogo/8636.png",
+        "away_team": "Atletico Madrid",
+        "away_image": "https://images.fotmob.com/image_resources/logo/teamlogo/9906.png",
+        "is_live": true,
         "score": "",
-        "date": "14/01",
-        "time": "12:00 AM",
-        "links": []
-    },
-    {
-        "id": 24,
-        "league": "LaLiga",
-        "home_team": "Athletic Club",
-        "home_image": "https://images.fotmob.com/image_resources/logo/teamlogo/8315.png",
-        "away_team": "Real Sociedad",
-        "away_image": "https://images.fotmob.com/image_resources/logo/teamlogo/8560.png",
-        "is_live": false,
-        "score": "",
-        "date": "14/01",
-        "time": "12:00 AM",
-        "links": []
-    },
-    {
-        "id": 23,
-        "league": "Bundesliga",
-        "home_team": "SV Darmstadt",
-        "home_image": "https://images.fotmob.com/image_resources/logo/teamlogo/8262_small.png",
-        "away_team": "Borussia Dortmund",
-        "away_image": "https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",
-        "is_live": false,
-        "score": "",
-        "date": "14/01",
-        "time": "12:00 AM",
-        "links": []
-    },
-    {
-        "id": 22,
-        "league": "Serie A",
-        "home_team": "Monza",
-        "home_image": "https://images.fotmob.com/image_resources/logo/teamlogo/6504.png",
-        "away_team": "Inter",
-        "away_image": "https://images.fotmob.com/image_resources/logo/teamlogo/8636.png",
-        "is_live": false,
-        "score": "",
-        "date": "14/01",
-        "time": "02:15 AM",
-        "links": []
-    },
-    {
-        "id": 21,
-        "league": "LaLiga",
-        "home_team": "Real Betis",
-        "home_image": "https://images.fotmob.com/image_resources/logo/teamlogo/8603.png",
-        "away_team": "Granada",
-        "away_image": "https://images.fotmob.com/image_resources/logo/teamlogo/7878.png",
-        "is_live": false,
-        "score": "",
-        "date": "14/01",
-        "time": "02:30 AM",
-        "links": []
-    },
-    {
-        "id": 20,
-        "league": "Ligue 1",
-        "home_team": "Rennes",
-        "home_image": "https://images.fotmob.com/image_resources/logo/teamlogo/9851_small.png",
-        "away_team": "Nice",
-        "away_image": "https://images.fotmob.com/image_resources/logo/teamlogo/9831_small.png",
-        "is_live": false,
-        "score": "",
-        "date": "14/01",
-        "time": "02:30 AM",
-        "links": []
-    }
+        "date": "2:30 AM",
+        "time": "2:30 AM",
+        "links": [
+            {
+            "title": "English HD",
+            "url": "https://s4.anania.xyz/hls/abr-player-2/index.m3u8",
+            "referrer": "https://www.sportshub.to/",
+            "user_agent": ""
+        },
+{
+            "title": "Vebo HD",
+            "url": "0",
+            "referrer": "https://watch.ezyproxy.com/",
+            "user_agent": ""
+        },
+{
+                "title": "English FHD",
+                "url": "https://hls.streambtw.com/live/stream_e10.m3u8",
+                "referrer": "",
+                "user_agent": ""
+            },
+{
+                "title": "English HD",
+                "url": "https://ynzbpull2.nbxhth.cn/live/84394934201942829933.m3u8",
+                "referrer": "",
+                "user_agent": ""
+            },
+            {
+                "title": "English HD",
+                "url": "https://live.damstounas.xyz/hls/liga_480p/index.m3u8",
+                "referrer": "https://soccerinhd.com/",
+                "user_agent": ""
+            },
+{
+                "title": "English SD",
+                "url": "https://live.damstounas.xyz/hls/liga_320p/index.m3u8",
+                "referrer": "https://soccerinhd.com/",
+                "user_agent": ""
+            },
+{
+                "title": "China HD",
+                "url": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-540088_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1708459331-0-0-6169f767c346814c66575234db3ef8a0&user_session_id=d631cbb435ca1310a70974a9ddb1bff1",
+                "referrer": "",
+                "user_agent": ""
+            },
+            {
+                "title": "China SD",
+                "url": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-540088_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1708459331-0-0-6169f767c346814c66575234db3ef8a0&user_session_id=d631cbb435ca1310a70974a9ddb1bff1",
+                "referrer": "",
+                "user_agent": ""
+            },
+{
+                "title": "Soco HD",
+                "url": "0",
+                "referrer": "",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco SD",
+                "url": "0",
+                "referrer": "",
+                "user_agent": ""
+            }
 ]
+},
+{
+        "id": 25,
+        "league": "Champions League",
+        "home_team": "PSV Eindhoven",
+        "home_image": "https://images.fotmob.com/image_resources/logo/teamlogo/8640.png",
+        "away_team": "Borussia Dortmund",
+        "away_image": "https://images.fotmob.com/image_resources/logo/teamlogo/9789.png",
+        "is_live": true,
+        "score": "",
+        "date": "2:30 AM",
+        "time": "2:30 AM",
+        "links": [
+{
+                "title": "English HD",
+                "url": "https://ynzbpull2.nbxhth.cn/live/84394962475903428150.m3u8",
+                "referrer": "",
+                "user_agent": ""
+            },
+{
+                "title": "English FHD",
+                "url": "https://sportsleading.online/live/stream_e1_abr.m3u8",
+                "referrer": "",
+                "user_agent": ""
+            },
+            {
+                "title": "English HD",
+                "url": "https://live.damstounas.xyz/hls/pr2_480p/index.m3u8",
+                "referrer": "https://soccerinhd.com/",
+                "user_agent": ""
+            },
+{
+                "title": "English SD",
+                "url": "https://live.damstounas.xyz/hls/pr2_320p/index.m3u8",
+                "referrer": "https://soccerinhd.com/",
+                "user_agent": ""
+            },
+{
+                "title": "China HD",
+                "url": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-637513_lhd.m3u8?user_session_id=5a603974a76e476db47ca96d4e1876ef&auth_key=1708459691-0-0-664a6d7932d55a7f1f83cfb61351e1a1&sub_m3u8=true&edge_slice=true",
+                "referrer": "",
+                "user_agent": ""
+            },
+            {
+                "title": "China SD",
+                "url": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-637513_lsd.m3u8?user_session_id=5a603974a76e476db47ca96d4e1876ef&auth_key=1708459691-0-0-664a6d7932d55a7f1f83cfb61351e1a1&sub_m3u8=true&edge_slice=true",
+                "referrer": "",
+                "user_agent": ""
+            },
+{
+                "title": "Soco HD",
+                "url": "0",
+                "referrer": "",
+                "user_agent": ""
+            },
+            {
+                "title": "Soco SD",
+                "url": "0",
+                "referrer": "",
+                "user_agent": ""
+            }
+]
+}
+    ]
